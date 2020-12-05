@@ -8,4 +8,4 @@
 4- DenseNet121 CNN based pretrained model
 
 # How to use?
-Please see example.py
+Please see covidx.py
