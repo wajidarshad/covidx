@@ -7,5 +7,6 @@
 3- Tensorflow 
 4- DenseNet121 CNN based pretrained model
 
+
 # How to use?
-Please see covidx.py
+Please see covidx.py or covidx_weights.py
