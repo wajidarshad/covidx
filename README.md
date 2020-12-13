@@ -1,4 +1,4 @@
-# COVIDX: COVID-19 diagnosis and severity prediction system
+# COVIDX: COVID-19 diagnosis and severity prediction system (using X-ray Images)
 
 ## Dependencies 
 
