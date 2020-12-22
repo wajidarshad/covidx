@@ -9,4 +9,4 @@
 
 
 ## How to use?
-Please see covidx.py or covidx_with_weights.py
+Please see covidx.py or covidx_with_weights.py ( For its webserver please visit https://covidx.pythonanywhere.com/)
